@@ -1,0 +1,12 @@
+Here I'm going to list all git command that I'll learn
+
+git init - creates the git repository
+git status - displays basic info about the current repository
+
+git add - stages files
+git commit - creates commit with a given message and all staged files
+
+git checkout - switch the active branch
+git reset-hard - discards changes
+
+git log - displays history of commits
