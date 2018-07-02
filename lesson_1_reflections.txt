@@ -1,0 +1,13 @@
+You can easily see where changes were made.
+This helps to follow the process of creating code and makes it easy to spot mistakes.
+Sounds like a great feature for detecting bugs and typos :D
+
+Manual commits let programmer make each commit a logical change.
+It allows to keep history clear and enables the author to see what he was working on.
+It also gives you the feeling of achieving goals every time you make a commit.
+
+git log shows history of a repository which is super need for tracking what changes ware made in the project
+git diff takes id of 2 commits and shows exact changes that happened between them
+
+If I know that I can go back to the past version of my project I'm not afraid of messing around.
+In case I break somethin I can now just use git checkout to travel thru time :D 
