@@ -12,3 +12,5 @@ git reset - removes files form staging area
 git reset-hard - discards changes
 
 git log - displays history of commits
+git diff - shows difference in a file
+git diff --staged - shows changes between staged files and last commit
