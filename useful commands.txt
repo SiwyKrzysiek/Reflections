@@ -13,4 +13,5 @@ git reset-hard - discards changes
 
 git log - displays history of commits
 git diff - shows difference in a file
+git diff [no commit ids] - shows difference between working directory and staging area
 git diff --staged - shows changes between staged files and last commit
