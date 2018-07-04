@@ -8,6 +8,7 @@ git add - stages files
 git commit - creates commit with a given message and all staged files
 
 git checkout - switch the active branch or go back to past commit
+git checkout -b [branch name] - create branch and checkout to it
 git reset - removes files form staging area
 git reset-hard - discards changes
 
