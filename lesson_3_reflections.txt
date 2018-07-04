@@ -1,0 +1,1 @@
+Diagrams make it easy to see when commits were made relative to each other
