@@ -14,7 +14,8 @@ git reset-hard - discards changes
 
 git log - displays history of commits
 git log --graph --oneline [1. branch name] [2. branch name] - visualizes commit history between two branches
-git diff - shows difference in a file
+git diff - shows difference between two commits
+git show [commit id] - shows difference between a commit and it's parent
 git diff [no commit ids] - shows difference between working directory and staging area
 git diff --staged - shows changes between staged files and last commit
 
