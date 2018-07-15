@@ -1,1 +1,5 @@
 Diagrams make it easy to see when commits were made relative to each other
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+It is clearer to see that you are working on something new when you put it on separate branch
+Not having separate branch is easier and quicker but doing it this way makes it harder to collaborate
