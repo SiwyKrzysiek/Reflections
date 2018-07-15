@@ -27,4 +27,9 @@ git branch -d [branch name] - deletes branch
 
 git remote - lists all remotes
 git remote -v - gives more info about remotes
-git remote add - add new remote
+
+git fetch [origin] - downloads all branch changes form remote. 
+They can by accessed using for example origin/master - that is a version of master how it is on remote
+Then you might want to merge origin/master to master and make commit
+
+git pull [origin] - is like running git fetch -> git merge -> git commit
