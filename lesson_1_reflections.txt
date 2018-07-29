@@ -11,3 +11,5 @@ git diff takes id of 2 commits and shows exact changes that happened between the
 
 If I know that I can go back to the past version of my project I'm not afraid of messing around.
 In case I break somethin I can now just use git checkout to travel thru time :D 
+
+TEST
